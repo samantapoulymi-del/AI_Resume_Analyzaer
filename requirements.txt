@@ -1,0 +1,17 @@
+streamlit
+pandas
+joblib
+spacy==3.7.2
+scikit-learn
+scipy
+textblob
+PyPDF2
+google-generativeai
+requests
+urllib3
+plotly
+PyMuPDF
+pytesseract
+Pillow
+fpdf
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
